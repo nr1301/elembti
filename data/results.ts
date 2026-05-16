@@ -330,7 +330,7 @@ export const results: Record<string, MbtiResult> = {
     type: 'ESTJ',
     character: '주디 홉스',
     movie: '주토피아 (2016)',
-    image: '/characters/estj.webp',
+    image: '/characters/estj.png',
     color: '#6c63ff',
     colorEnd: '#4a42d4',
     tagline: '정의롭고 믿음직한 최고의 탐정!',
